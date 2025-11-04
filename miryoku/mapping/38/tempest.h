@@ -1,3 +1,6 @@
+// Copyright 2025 Manna Harbour
+// https://github.com/manna-harbour/miryoku
+
 #if !defined (MIRYOKU_LAYOUTMAPPING_TEMPEST)
 
 #define XXX &none
