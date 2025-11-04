@@ -1,0 +1,4 @@
+outboard_repository=thrly/tempest-zmk
+outboard_ref=main
+outboard_from=config/boards/shields/tempest
+outboard_to=boards/shields/tempest
