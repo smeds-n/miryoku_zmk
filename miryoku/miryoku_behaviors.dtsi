@@ -15,7 +15,7 @@
       #binding-cells = <2>;
       tapping-term-ms = <U_TAPPING_TERM>;
       flavor = "tap-preferred";
-      bindings = <&mo>, <&key_repeat>;
+      bindings = <&mo>, <&kp>;
     };
     u_lt2: u_lt2 {
       compatible = "zmk,behavior-hold-tap";
