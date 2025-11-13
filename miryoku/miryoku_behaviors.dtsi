@@ -20,12 +20,12 @@
   };
 };
 
-/ {
-    behaviors {
-        key_repeat: key_repeat {
-            compatible = "zmk,behavior-key-repeat";
-            label = "KEY_REPEAT";
-        };
-    };
-};
+/// {
+//    behaviors {
+//        key_repeat: key_repeat {
+//            compatible = "zmk,behavior-key-repeat";
+//            label = "KEY_REPEAT";
+//        };
+//    };
+//};
 
